@@ -1,4 +1,4 @@
-### Project of WordPres with MySQL DB
+### Project of WordPress with MySQL DB
  
 ### Project structure:
 ```
