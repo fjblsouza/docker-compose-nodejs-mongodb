@@ -115,7 +115,7 @@ wordpress    latest    b8ee07adfa91   5 days ago    616MB
 mysql        5.7       dd6675b5cfea   4 weeks ago   569MB
 ubuntu@ip-172-31-21-183:~/docker-compose-wordpress-mysql$
 ```
-### Stop and remove the containers and volumes
+### Stop and remove the containers
 ```
 $ docker compose down 
 ```
